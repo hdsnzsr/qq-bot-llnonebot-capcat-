@@ -1,4 +1,4 @@
-# qq-bot-liteloader-napcat-
+# yang bott 基于liteloader和napcat开发-
 一堆shi山）
 
 
